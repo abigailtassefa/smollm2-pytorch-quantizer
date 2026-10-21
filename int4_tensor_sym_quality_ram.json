@@ -1,0 +1,18 @@
+{
+  "configuration": "int4_tensor_sym",
+  "mode": "quality_ram",
+  "cpu_threads": 2,
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "cpu_description": "x86_64",
+  "total_system_ram_mb": 13605.830656,
+  "checkpoint_mb": 166.524432,
+  "framework_ram_mb": 473.071616,
+  "loaded_ram_mb": 516.775936,
+  "peak_loading_ram_mb": 516.714496,
+  "peak_inference_ram_mb": 729.612288,
+  "memory_sampling_interval_ms": 5,
+  "meets_1gb_budget": true,
+  "evaluated_tokens": 2032,
+  "mean_nll": 15.420246183872223,
+  "perplexity": 4976543.759571938
+}

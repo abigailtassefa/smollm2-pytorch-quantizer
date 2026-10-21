@@ -1,0 +1,17 @@
+{
+  "configuration": "int4_channel_sym",
+  "mode": "speed",
+  "cpu_threads": 2,
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "cpu_description": "x86_64",
+  "total_system_ram_mb": 13605.830656,
+  "checkpoint_mb": 167.146784,
+  "generation_tokens": 50,
+  "timing_trials_seconds": [
+    23.265062086999933,
+    20.421453665999252,
+    23.325515874000303
+  ],
+  "median_generation_seconds": 23.265062086999933,
+  "tokens_per_second": 2.14914534992533
+}

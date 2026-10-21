@@ -1,0 +1,18 @@
+{
+  "configuration": "int4_channel_sym",
+  "mode": "quality_ram",
+  "cpu_threads": 2,
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "cpu_description": "x86_64",
+  "total_system_ram_mb": 13605.830656,
+  "checkpoint_mb": 167.146784,
+  "framework_ram_mb": 473.309184,
+  "loaded_ram_mb": 519.602176,
+  "peak_loading_ram_mb": 519.41376,
+  "peak_inference_ram_mb": 730.681344,
+  "memory_sampling_interval_ms": 5,
+  "meets_1gb_budget": true,
+  "evaluated_tokens": 2032,
+  "mean_nll": 4.406054109334946,
+  "perplexity": 81.94547682452294
+}
