@@ -1,0 +1,10 @@
+Base model: HuggingFaceTB/SmolLM2-135M
+Source: https://huggingface.co/HuggingFaceTB/SmolLM2-135M
+Source model license: Apache License 2.0
+
+Modification: custom raw-PyTorch weight quantization.
+210 internal linear layers quantized; embeddings and output
+projection remain FP32. Custom loading code is required.
+
+See BASE_MODEL_CARD.md for the original model description,
+authorship, training details, and limitations.

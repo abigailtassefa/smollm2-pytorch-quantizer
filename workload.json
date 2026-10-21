@@ -1,0 +1,15 @@
+{
+  "dataset": "Salesforce/wikitext",
+  "dataset_config": "wikitext-2-raw-v1",
+  "split": "test",
+  "selection": "First nonempty rows; tokenize each with two trailing newlines",
+  "rows_read": 46,
+  "sequence_length": 128,
+  "blocks": 16,
+  "input_tokens": 2048,
+  "predicted_tokens": 2032,
+  "batch_size": 1,
+  "timing_prompt": "Once upon a time, a young scientist discovered",
+  "generation_tokens": 50,
+  "cpu_threads": 2
+}
